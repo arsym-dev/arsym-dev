@@ -27,22 +27,31 @@ My current hobby is artificial intelligence but I'm always looking for new adven
     <tr>
       <td>General</td>
       <td>
-        <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white">
-        <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white">
         <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"></a>
-        <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white">
+        <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white">
+        <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white">
         <a href="https://code.visualstudio.com/"><img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-3ca9f2.svg?style=flat&logo=visual-studio-code&logoColor=white"></a>
+      </td>
+    <tr>
+      <td>Platforms</td>
+      <td>
         <a href="https://insider.windows.com"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white"></a>
         <a href="https://www.debian.org"><img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?style=flat&logo=debian&logoColor=white"></a>
         <a href="https://ubuntu.com"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"></a>
+        <img alt="Steam Deck" src="https://img.shields.io/badge/Steam Deck-1A9FFF.svg?logo=steamdeck&logoColor=white">
+        <img alt="Android" src="https://img.shields.io/badge/Android-34A853?logo=android&logoColor=white">
       </td>
     </tr>
     <tr>
       <td>Game Dev</td>
       <td>
-        <a href="https://unity.com/"><img alt="Unity" src="https://img.shields.io/badge/Unity-626262?style=flat&logo=unity&logoColor=white"></a>
         <a href="https://www.renpy.org/"><img alt="Ren'Py" src="https://img.shields.io/badge/RenPy-f6e058?style=flat&logo=renpy&logoColor=a05e65"></a>
+        <a href="https://unity.com/"><img alt="Unity" src="https://img.shields.io/badge/Unity-626262?style=flat&logo=unity&logoColor=white"></a>
         <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white">
+        <img alt="Steam" src="https://img.shields.io/badge/Steam-2E3340.svg?logo=steam&logoColor=white">
+        <img alt="Itch.io" src="https://img.shields.io/badge/itch.io-FF0B34.svg?logo=Itch.io&logoColor=white">
+        <img alt="Patreon" src="https://img.shields.io/badge/Patreon-F96854?logo=patreon&logoColor=white">
+        <img alt="Kickstarter" src="https://img.shields.io/badge/Kickstarter-05CE78?logo=kickstarter&logoColor=white">
       </td>
     </tr>
     <tr>
@@ -53,6 +62,7 @@ My current hobby is artificial intelligence but I'm always looking for new adven
         <img alt="Assembly" src="https://img.shields.io/badge/Assembly-02456C?style=flat">
         <img alt="dnSpy" src="https://img.shields.io/badge/dnSpy-000?style=flat">
         <img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white">
+        <img alt="Hex Editors" src="https://img.shields.io/badge/Hex Editors-444?style=flat">
         <img alt="Custom" src="https://img.shields.io/badge/Custom Tools-444?style=flat">
       </td>
     </tr>
@@ -71,6 +81,7 @@ My current hobby is artificial intelligence but I'm always looking for new adven
         <img alt="Javascript" src="https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black">
         <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
         <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+        <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white">
       </td>
     </tr>
   </tbody>

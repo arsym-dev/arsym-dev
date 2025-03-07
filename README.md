@@ -5,7 +5,7 @@
 </div> -->
 
 # Arsym
-- ✔️ Generalist, hacker, jack of all trades.
+- ✔️ Game developer, generalist, hacker, jack of all trades.
 - 💻 Freelancer, available for hire.
 - ❓ Got a problem but don't know how to solve it? I can probably figure it out.
 - 📨 Contact via email (arsym.dev at gmail.com) or discord (arsym)

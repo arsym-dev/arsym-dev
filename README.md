@@ -10,15 +10,13 @@
 - ❓ Got a problem but don't know how to solve it? I can probably figure it out.
 - 📨 Contact via email (arsym.dev at gmail.com) or discord (arsym)
 
-## Portfolios
+## Portfolio
 - [Game Development](pages/game_dev.md)
 
 ## About
-I'm a curious person that enjoys trying new things. I mainly do game development these days, but I also have experience with web, desktop, and robotics (drones, vehicles, robotic arms).
+I mainly do game development these days, but I also have experience with web, desktop, and robotics (drones, vehicles, robotic arms).
 
-At some point I learned to reverse engineer software. I've disassembled malware, cracked software, hacked cars, and tore apart games to create mods and fan translations.
-
-My current hobby is artificial intelligence but I'm always looking for new adventures and challenges.
+I'm a curious person that enjoys trying new things. My current hobby is artificial intelligence.
 
 ## Skills and Tools
 <table>

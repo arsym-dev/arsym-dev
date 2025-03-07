@@ -11,8 +11,6 @@
   - Visual tool that allows the scripter to test, place, and save sprites in the game
   - Displayable that takes an XML diagram and creates in-game visuals
 
-
-
 ### Undisclosed
 - Lead Ren'Py Developer
 - Added translation support via Crowdin integration
@@ -28,7 +26,7 @@
 - Added MC sprite customization
 - Implemented screens and UIs
 
-### Numerous Undisclosed Projects
+### Other Projects (over 15 titles)
 - Ported an NScripter project to Ren'Py while faithfully preserving its elements (speech bubble appearance and placement, screens, animations, etc)
 - Greatly improved controller support including fully remappable controls (keyboard, controller)
 - Debug tools to improve development speed (inspection tools, profiling and reload time optimization)

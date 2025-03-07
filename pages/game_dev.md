@@ -12,8 +12,9 @@
       <td>Revenue Streams</td>
       <td>
         <img alt="Steam" src="https://img.shields.io/badge/Steam-2E3340.svg?logo=steam&logoColor=white">
-        <img alt="Itch.io" src="https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white">
+        <img alt="Itch.io" src="https://img.shields.io/badge/itch.io-FF0B34.svg?logo=Itch.io&logoColor=white">
         <img alt="Patreon" src="https://img.shields.io/badge/Patreon-F96854?logo=patreon&logoColor=white">
+        <img alt="Paypal" src="https://img.shields.io/badge/Paypal-003087?logo=paypal&logoColor=white">
         <img alt="Kickstarter" src="https://img.shields.io/badge/Kickstarter-05CE78?logo=kickstarter&logoColor=white">
       </td>
     </tr>
@@ -65,9 +66,20 @@
 
 
 # Unity
-<img alt="Unity" src="https://img.shields.io/badge/Unity-626262?style=flat&logo=unity&logoColor=white">
+<table>
+  <tbody>
+    <tr>
+      <td>Tools</td>
+      <td>
+        <img alt="Unity" src="https://img.shields.io/badge/Unity-626262?style=flat&logo=unity&logoColor=white">
 <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white">
 <img alt="Textmate" src="https://img.shields.io/badge/Textmate-444?style=flat">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
 
 ### [Naninovel](https://github.com/naninovel/docs)
 - Added syntax highlight for the naninovel LSP (Language for Specific Purposes) via textmate ([contribution](https://github.com/arsym-dev/naninovel.github.io/tree/textmate_grammar))
@@ -84,12 +96,28 @@
 
 
 # Reverse Engineering/Fan Patches
-<img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white">
+<table>
+  <tbody>
+    <tr>
+      <td>Languages</td>
+      <td>
+        <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white">
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
 <img alt="Assembly" src="https://img.shields.io/badge/Assembly-02456C?style=flat">
-<img alt="Ghidra" src="https://img.shields.io/badge/Ghidra-e22726?style=flat">
-<img alt="Ollydbg" src="https://img.shields.io/badge/OllyDbg-fa0404?style=flat">
-<img alt="Custom" src="https://img.shields.io/badge/Custom Tools-444?style=flat">
+      </td>
+    </tr>
+    <tr>
+      <td>Tools</td>
+      <td>
+        <img alt="Ghidra" src="https://img.shields.io/badge/Ghidra-e22726?style=flat">
+        <img alt="Ollydbg" src="https://img.shields.io/badge/OllyDbg-fa0404?style=flat">
+        <img alt="Hex Editors" src="https://img.shields.io/badge/Hex Editors-444?style=flat">
+        <img alt="Custom Tools" src="https://img.shields.io/badge/Custom Tools-444?style=flat">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
 ### Remember11: The Age of Infinity (PC, PS2)
 - [Repository](https://github.com/arsym-dev/Remember11-Script-Editor)

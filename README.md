@@ -1,15 +1,14 @@
-
+<!--
 <div align="center">
   <a href="https://twitter.com/_Arsym"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="https://www.paypal.com/paypalme/trinititeteam"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"></a>
-</div>
+</div> -->
 
 # Arsym
 - ✔️ Generalist, hacker, jack of all trades.
 - 💻 Freelancer, available for hire.
 - ❓ Got a problem but don't know how to solve it? I can probably figure it out.
 - 📨 Contact via email (arsym.dev at gmail.com) or discord (arsym)
-----
 
 ## Portfolios
 - [Game Development](pages/game_dev.md)

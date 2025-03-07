@@ -8,7 +8,7 @@
 - ✔️ Generalist, hacker, jack of all trades.
 - 💻 Freelancer, available for hire.
 - ❓ Got a problem but don't know how to solve it? I can probably figure it out.
-- 📨 Contact via email (arsym.dev at gmail.com) or discord (Arsym#6209)
+- 📨 Contact via email (arsym.dev at gmail.com) or discord (arsym)
 ----
 
 I'm a curious person that enjoys trying new things. I do all kinds of "normal" development (web, desktop, game dev, scripting). I've also developed software for robots (drones, vehicles, robotic arms).

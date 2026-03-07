@@ -17,8 +17,8 @@
   - Easily upload new lines/download translations with the click of a button
   - Handles dialogue, UI, and storefront text, and automatically takes and uploads screenshots
 - Added Steam Deck support and better controller handling
-- Sped up scene scripting by using AI to determine the next appropriate sprite/expression to show
 - Created minigames (point and click, slide puzzles, block pushing)
+- Sped up scene scripting by using AI tools to determine the next appropriate sprite/expression to show
 
 ### [I Just Want to be Single](https://store.steampowered.com/app/1703610/I_Just_Want_to_be_Single_Season_One)
 - Ren'Py Developer

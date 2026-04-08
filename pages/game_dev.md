@@ -1,78 +1,54 @@
 # Ren'Py
-### [The Sekimeiya: Spun Glass](https://store.steampowered.com/app/1432500/The_Sekimeiya_Spun_Glass/)
-- Lead Ren'Py Developer
-- Added player features:
-    - Ability to search through text you've already read, and jump to _any_ moment in the game
-    - Summary of each scene along with player notes with rich-text support
-    - Very extensive range of settings and quality of life features
-    - Map + minimap that are updated in real-time as characters move around
-    - Publicly visible stats once the player completes the game
-- Added development features:
-  - Visual tool that allows the scripter to test, place, and save sprites in the game
-  - Displayable that takes an XML diagram and creates in-game visuals
 
-### Undisclosed
-- Lead Ren'Py Developer
-- Added translation support via Crowdin integration
-  - Easily upload new lines/download translations with the click of a button
-  - Handles dialogue, UI, and storefront text, and automatically takes and uploads screenshots
-- Added Steam Deck support and better controller handling
-- Created minigames (point and click, slide puzzles, block pushing)
-- Sped up scene scripting by using AI tools to determine the next appropriate sprite/expression to show
+# Ren'Py
 
 ### [I Just Want to be Single](https://store.steampowered.com/app/1703610/I_Just_Want_to_be_Single_Season_One)
+[![Trailer for I Just Want to be Single](https://img.youtube.com/vi/dA0rr8sP3QM/0.jpg)](https://www.youtube.com/watch?v=dA0rr8sP3QM)
+
 - Ren'Py Developer
-- Created fast-paced typing minigames with difficulty settings
-- Added MC sprite customization
-- Implemented screens and UIs
+- Built fast-paced typing minigames with adjustable difficulty and smooth animation
+- Added MC customization, level select, chat, and browser screens
+- Implemented visual effects including particles, text shaders, and image shaders
+
+### [The Sekimeiya: Spun Glass](https://store.steampowered.com/app/1432500/The_Sekimeiya_Spun_Glass/)
+- Lead Ren'Py Developer
+- Search and jump feature for previously-read text, allowing players to jump to any moment in the story
+- Scene summary and notes system with rich-text support
+- Quality-of-life settings for text and sprite presentation
+- Aggregated gameplay analytics shown to players after completion
+- Development tools for faster sprite selection/placement and asset creation
+
+### Unattributed Released Title
+- Lead Ren'Py Developer
+- Added crowdsourced translation workflows via Crowdin integration with automated screenshots for context
+- Improved Steam Deck, Android, and controller support
+- Created minigames including point-and-click, slide puzzles, and block pushing
+- Implemented achievements, walkthrough/hint systems, gallery, carousel, phone, and chat features
+- Added AI-assisted tooling to speed up sprite/expression selection during scripting
+
+### Ren'Py Library
+Custom Ren'Py library that adds controller support, shaders, utility screens, save/load enhancements, and more. Used as the foundation for multiple shipped titles.
 
 ### Other Projects (over 15 titles)
 - Ported an NScripter project to Ren'Py while faithfully preserving its elements (speech bubble appearance and placement, screens, animations, etc)
 - Greatly improved controller support including fully remappable controls (keyboard, controller)
-- Debug tools to improve development speed (inspection tools, profiling and reload time optimization)
+- Built debug and pipeline tooling to improve development speed (inspection tools, profiling, reload-time optimization)
 - Implemented screens, UIs, and minigames
 - Edit audio, graphics, video as needed
 
 # Unity
-### [Naninovel](https://github.com/naninovel/docs)
-- Added syntax highlight for the naninovel LSP (Language for Specific Purposes) via textmate ([contribution](https://github.com/arsym-dev/naninovel.github.io/tree/textmate_grammar))
 
 ### [Séance: Spectral Noise](https://moon-moth-games.itch.io/seance-spectral-noise)
 
 - Worked on a custom engine built on [Ink](https://www.inklestudios.com/ink/)
-- Created custom screens such as the journal and database
-- Created save system from scratch
-- Helped with the puzzle system
+- Designed and implemented puzzle logic and visual effects
+- Created custom journal and database screens
+- Built a save/load system that correctly persists game state
+- Implemented dialogue progression systems for Ink-driven narrative
 
-### Undisclosed
-- Worked on a deck-building card game
+### [Naninovel](https://github.com/naninovel/docs)
+- Added syntax highlight for the naninovel LSP (Language for Specific Purposes) via textmate ([contribution](https://github.com/arsym-dev/naninovel.github.io/tree/textmate_grammar))
 
-# Reverse Engineering/Fan Patches
-### Remember11: The Age of Infinity (PC, PS2)
-- [Repository](https://github.com/arsym-dev/Remember11-Script-Editor)
-- Extremely rich GUI that allows for arbitrary modifications to the proprietary scenario format
-- Compares Japanese and translated text side-by-side
-- Translation tools to quickly do sanity checks on Japanese text
-- Used to create the [Gestalt Edition fan patch](https://old.reddit.com/r/InfinitySeries/comments/mbk11z/remember11_gestalt_edition_repost/)
+---
 
-### Ever17: The Out of Infinity (PC, PS2)
-- [exe modifier](https://github.com/arsym-dev/Ever17-Exe-Modifier) - Edit fonts, increase skip speed, prevent music from restarting
-- [scenario editor](https://github.com/arsym-dev/Ever17-Scenario-Editor) - Modify the proprietary scenario format
-- [image converter](https://github.com/arsym-dev/Ever17-CPS-Converter) - Edit images
-- Used to create the [Himmel Edition fan patch](https://old.reddit.com/r/InfinitySeries/comments/mbkbhn/ever17_himmel_edition_repost/)
-
-### 12Riven (PC)
-- [Repository](https://github.com/Exormeter/12Riven_ScriptEditor)
-- Assisted in reverse engineering some commands for 12Riven and helped modify Remember11's script editor to accomodate. The lead developer is Exormeter.
-
-### Endonesia (PS2)
-- [Repository](https://github.com/arsym-dev/endonesia-tool)
-- Allow editing for images, animations, and text
-
-### 428 Shibuya Scramble (PC)
-- [Repository](https://github.com/arsym-dev/428-Text-Speed-Patch)
-- Change the rate at which text is displayed
-
-### Vampirdzhija Vjedogonia (PC)
-- [Repository](https://github.com/arsym-dev/vjedogonia-tools)
-- Allow editing for images, and text
+→ For reverse engineering and fan patch work, see the [Reverse Engineering](reverse_engineering.md) page.
